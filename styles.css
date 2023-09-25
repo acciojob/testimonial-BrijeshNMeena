@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#div{
+	padding: 10px;
+	background-color: skyblue;
+}
+
+.box{
+	padding: 10px;
+	border: 10px;
+	background-color: white;
+	margin: 10px;
+}
+.aut{
+	text-align: right;
+	text-style: italic;
+}
